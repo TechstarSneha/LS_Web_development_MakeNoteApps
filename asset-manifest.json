@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/LS_Web_development_MakeNoteApps/static/css/main.8b463b6f.css",
+    "main.js": "/LS_Web_development_MakeNoteApps/static/js/main.065f40b6.js",
+    "static/media/plus.png": "/LS_Web_development_MakeNoteApps/static/media/plus.8c2fe6e2b84bdb634830.png",
+    "index.html": "/LS_Web_development_MakeNoteApps/index.html",
+    "main.8b463b6f.css.map": "/LS_Web_development_MakeNoteApps/static/css/main.8b463b6f.css.map",
+    "main.065f40b6.js.map": "/LS_Web_development_MakeNoteApps/static/js/main.065f40b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b463b6f.css",
+    "static/js/main.065f40b6.js"
+  ]
+}
